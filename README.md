@@ -1,8 +1,11 @@
 # AI-Based Differentiation of ARDS vs Pulmonary Edema using Lung Ultrasound
+<img width="466" height="370" alt="Screenshot 2026-03-27 at 3 12 28 PM" src="https://github.com/user-attachments/assets/11541dd5-2e55-4297-85a1-71d2b92bd1c4" />
 
 ## 🚀 Overview
 
 This project focuses on developing a deep learning-based diagnostic system to differentiate **Acute Respiratory Distress Syndrome (ARDS)** and **Cardiogenic Pulmonary Edema (CPE)** using lung ultrasound (LUS) imaging.
+
+This project is built upon a structured literature review of 14 research papers and addresses a gap in developing a dedicated ARDS vs CPE binary classifier using LUS.
 
 Both conditions present with visually similar ultrasound patterns (B-lines), but require **completely opposite treatments**. Misclassification can lead to incorrect clinical decisions and severe patient outcomes. This project aims to assist clinicians by providing an **automated, accurate, and explainable AI-based diagnostic tool**.
 
