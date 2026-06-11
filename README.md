@@ -23,15 +23,8 @@ This project develops an AI-assisted diagnostic framework capable of learning di
 ## 🚨 Why This Problem Matters
 
 <p align="center">
-<img src="images/ards_vs_cpe.png" width="850">
+<img src="images/lus_features.png" width="850">
 </p>
-
-| ARDS                        | Cardiogenic Pulmonary Edema |
-| --------------------------- | --------------------------- |
-| Lung Protective Ventilation | Diuretics                   |
-| Prone Positioning           | Heart Failure Management    |
-| Treat Sepsis / Trauma       | Fluid Restriction           |
-| Diuretics Can Be Harmful    | Diuretics Are Essential     |
 
 ### Misdiagnosis = Wrong Treatment
 
@@ -54,7 +47,7 @@ Current clinical interpretation relies heavily on expert assessment of B-lines a
 The model learns clinically relevant ultrasound characteristics:
 
 <p align="center">
-<img src="images/lus_features.png" width="850">
+<img src="images/ards_vs_cpe.png" width="850">
 </p>
 
 ### Important Diagnostic Features
@@ -106,10 +99,6 @@ Because publicly available ARDS vs CPE datasets are extremely limited, a COVID-1
 ---
 
 # 🧹 Preprocessing Pipeline
-
-<p align="center">
-<img src="images/preprocessing.png" width="850">
-</p>
 
 ### Operations
 
